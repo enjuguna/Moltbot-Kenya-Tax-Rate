@@ -1,6 +1,6 @@
 {
   "name": "kenya-tax-rates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kenya payroll tax calculation utilities - PAYE, SHIF, NSSF, Housing Levy and reliefs",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
